@@ -1,0 +1,15 @@
+{
+    "name": "pc/blog",
+    "autoload": {
+        "psr-4": {
+            "Pc\\Blog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Baaboud",
+            "email": "Baaboud.dev@gmail.com"
+        }
+    ],
+    "require": {}
+}
